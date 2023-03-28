@@ -1,0 +1,58 @@
+.heading{
+    margin-top: 20px;
+    font-size: 30px;
+    width: 100%;
+    border: 2px solid white;
+    font-family: 'Times New Roman', Times, serif;
+}
+#object{
+    margin-top: 20px;
+    font-size: 30px;
+    width: 100%;
+    border: 2px solid white;
+    font-family: 'Times New Roman', Times, serif;
+}
+#ac{
+
+    font-size: 20px;
+    font-family: cursive;
+    box-sizing: border-box;
+    background-color: black;
+    border-radius: 10%;
+    float: left;
+}
+.link{
+    font-size: 20px;
+    font-family: cursive;
+    box-sizing: border-box;
+    background-color: bisque;
+    border-radius: 10%;
+    
+    
+}
+.link:hover{
+    font-size: 25px;
+   
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+#back{
+    float: left;
+    font-size: 20px;
+    margin-top: 0%;
+}
+#labelstatus{
+    font-size: 25px;
+    margin-top: 10px;
+}
+#labelobject{
+    font-size: 25px;
+    margin-top: 10px;
+
+}
+canvas{
+    box-shadow: 5px 10px 10px white;
+    margin-top: 200px;
+}
